@@ -17,6 +17,7 @@ public class P2Agile {
     public static void main(String[] args) {
         System.out.println("First message");
         System.out.println("First-branch");
+        System.out.println("First-branch only");
     }
     
 }
